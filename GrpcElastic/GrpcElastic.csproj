@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GrpcModels\GrpcModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Elasticsearch.Net">
+      <HintPath>..\dll\Elasticsearch.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Nest">
+      <HintPath>..\dll\Nest.dll</HintPath>
+    </Reference>
+    <Reference Include="Nest.JsonNetSerializer">
+      <HintPath>..\dll\Nest.JsonNetSerializer.dll</HintPath>
+    </Reference>
+    <Reference Include="XUtil">
+      <HintPath>..\dll\XUtil.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

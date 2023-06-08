@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "GrpcModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GrpcModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GrpcModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrpcModels/1.0.0": {
+      "type": "project",
+      "path": "../GrpcModels/GrpcModels.csproj",
+      "msbuildProject": "../GrpcModels/GrpcModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "GrpcModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\viett\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\GrpcRecommendSystem\\GrpcRSSolution\\GrpcElastic\\GrpcElastic.csproj",
+      "projectName": "GrpcElastic",
+      "projectPath": "E:\\GrpcRecommendSystem\\GrpcRSSolution\\GrpcElastic\\GrpcElastic.csproj",
+      "packagesPath": "C:\\Users\\viett\\.nuget\\packages\\",
+      "outputPath": "E:\\GrpcRecommendSystem\\GrpcRSSolution\\GrpcElastic\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\viett\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\GrpcRecommendSystem\\GrpcRSSolution\\GrpcModels\\GrpcModels.csproj": {
+              "projectPath": "E:\\GrpcRecommendSystem\\GrpcRSSolution\\GrpcModels\\GrpcModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

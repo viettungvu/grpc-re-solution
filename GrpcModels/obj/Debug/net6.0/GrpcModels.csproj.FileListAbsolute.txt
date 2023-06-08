@@ -1,0 +1,14 @@
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\bin\Debug\net6.0\GrpcModels.deps.json
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\bin\Debug\net6.0\GrpcModels.dll
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\bin\Debug\net6.0\GrpcModels.pdb
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\bin\Debug\net6.0\XUtil.dll
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\obj\Debug\net6.0\GrpcModels.csproj.AssemblyReference.cache
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\obj\Debug\net6.0\GrpcModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\obj\Debug\net6.0\GrpcModels.AssemblyInfoInputs.cache
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\obj\Debug\net6.0\GrpcModels.AssemblyInfo.cs
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\obj\Debug\net6.0\GrpcModels.csproj.CoreCompileInputs.cache
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\obj\Debug\net6.0\GrpcModels.csproj.CopyComplete
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\obj\Debug\net6.0\GrpcModels.dll
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\obj\Debug\net6.0\refint\GrpcModels.dll
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\obj\Debug\net6.0\GrpcModels.pdb
+E:\GrpcRecommendSystem\GrpcRSSolution\GrpcModels\obj\Debug\net6.0\ref\GrpcModels.dll

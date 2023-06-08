@@ -1,0 +1,12 @@
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\bin\Debug\net6.0\SharedContracts.deps.json
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\bin\Debug\net6.0\SharedContracts.dll
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\bin\Debug\net6.0\SharedContracts.pdb
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\obj\Debug\net6.0\SharedContracts.csproj.AssemblyReference.cache
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\obj\Debug\net6.0\SharedContracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\obj\Debug\net6.0\SharedContracts.AssemblyInfoInputs.cache
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\obj\Debug\net6.0\SharedContracts.AssemblyInfo.cs
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\obj\Debug\net6.0\SharedContracts.csproj.CoreCompileInputs.cache
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\obj\Debug\net6.0\SharedContracts.dll
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\obj\Debug\net6.0\refint\SharedContracts.dll
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\obj\Debug\net6.0\SharedContracts.pdb
+E:\GrpcRecommendSystem\GrpcRSSolution\SharedContracts\obj\Debug\net6.0\ref\SharedContracts.dll

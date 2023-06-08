@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Grpc.Net.Client" Version="2.48.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.0" />
+		<PackageReference Include="protobuf-net.Grpc" Version="1.1.1" />
+		<PackageReference Include="Grpc.Net.ClientFactory" Version="2.46.0" />
+
+		<PackageReference Include="PasswordBoxMVVM" Version="1.0.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\GrpcModels\GrpcModels.csproj" />
+		<ProjectReference Include="..\SharedContracts\SharedContracts.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Reference Include="Microsoft.AspNetCore.Hosting.Abstractions">
+	    <HintPath>..\dll\Microsoft.AspNetCore.Hosting.Abstractions.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Microsoft.Extensions.Configuration">
+	    <HintPath>..\dll\Microsoft.Extensions.Configuration.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Microsoft.Extensions.Configuration.Abstractions">
+	    <HintPath>..\dll\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Microsoft.Extensions.DependencyInjection">
+	    <HintPath>..\dll\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+	    <HintPath>..\dll\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Microsoft.Extensions.Hosting">
+	    <HintPath>..\dll\Microsoft.Extensions.Hosting.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Microsoft.Extensions.Hosting.Abstractions">
+	    <HintPath>..\dll\Microsoft.Extensions.Hosting.Abstractions.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="appsettings.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+</Project>

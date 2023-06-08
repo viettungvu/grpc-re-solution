@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "PGzV7zBgnYp6GyJGNZ3EnACAjbI00neTnZdiMvAhweFOn6SU5woYeVXhht1rRInAH9bMBJo+ejIq0tujfj41Ag==",
+  "success": true,
+  "projectFilePath": "E:\\GrpcRecommendSystem\\GrpcRSSolution\\GrpcServer\\GrpcServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viett\\.nuget\\packages\\grpc.aspnetcore.server\\2.36.0\\grpc.aspnetcore.server.2.36.0.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\grpc.core.api\\2.51.0\\grpc.core.api.2.51.0.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\grpc.net.common\\2.36.0\\grpc.net.common.2.36.0.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.15\\microsoft.aspnetcore.authentication.jwtbearer.6.0.15.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.1\\microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\protobuf-net\\2.4.8\\protobuf-net.2.4.8.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\protobuf-net.grpc\\1.1.1\\protobuf-net.grpc.1.1.1.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\protobuf-net.grpc.aspnetcore\\1.0.152\\protobuf-net.grpc.aspnetcore.1.0.152.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\viett\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
